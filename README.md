@@ -1,6 +1,6 @@
 # Diabetes Predictor AI App
 
-*An user-friednly and easy to use web application which was built using python and flask to help womens by detecting diabetes in earlier stages.*
+*An user-friednly and easy to use web application which was built using python and flask to help people by detecting diabetes in earlier stages.*
 
 ## Table Of Contents
 - How does the app look?
@@ -12,6 +12,10 @@
 
 
 ### How does the app look?
+![WhatsApp Image 2023-08-25 at 03 48 12](https://github.com/adit2005/Diabetes-Predictor/assets/119931302/4a779ee8-2149-4fd9-b1e5-9cd2b9318790)
+
+## Motivation
+To learn how Machine Learning can be used to solve real life problems
 
 
 ### How the App was biult?
